@@ -1,7 +1,7 @@
 ---
-title:'Kicking off Project 52.0 ~ 52 weeks, 52 papers'
+title:'Kicking off Project-52.0: 52 weeks, 52 papers'
 date: 2019-08-21
-permalink: /posts/2019/21/Project 52.0
+permalink: /posts/2019/21/Project-52.0
 tags:
   - cool posts
   - category1
