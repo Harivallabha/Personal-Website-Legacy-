@@ -12,9 +12,9 @@ A blog that is intended for personal-use but sprinkled with a touch of sanity th
 
 Just kidding.
 
-Go ahead for a rich account of ... Ah well, you get the drift.
+Go ahead for a rich account of ... Ah well, you get the drift. Code-scapades!
 
 A rich account of piano on the keyboard :)
 
-Yeah. Yeah. Yeah... ~ Life, Love, Code and the Keyboard. Code-scapades!
+Yeah. Yeah. Yeah... ~ Life, Love, Code and the Keyboard. 
 
