@@ -1,3 +1,5 @@
+#Writings on the Wall
+
 A blog that is intended for personal-use but sprinkled with a touch of sanity that makes it (hopefully) readable for everyone (Talking about my code comments, am I? Naahh, I write better comments :P) 
 
 Just kidding.
