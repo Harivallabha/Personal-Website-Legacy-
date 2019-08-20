@@ -16,5 +16,5 @@ Go ahead for a rich account of ... Ah well, you get the drift.
 
 A rich account of piano on the keyboard :)
 
-Yeah. Yeah.
+Yeah. Yeah. Yeah... ~ Life, Love, Code and the Keyboard. Code-scapades!
 
