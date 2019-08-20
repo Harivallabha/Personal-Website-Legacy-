@@ -1,4 +1,3 @@
-
 ---
 title:'Kicking off Project-52.0 -- 52 weeks, 52 papers'
 date: 2019-08-21
