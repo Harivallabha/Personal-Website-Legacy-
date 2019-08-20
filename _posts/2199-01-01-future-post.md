@@ -1,6 +1,6 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
+title: '52 weeks, 52 papers'
+date: 2019-08-21
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
@@ -8,4 +8,4 @@ tags:
   - category2
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+So, starting this week I'm gonna code up a small module of a selected paper each week, for the next 52 weeks. Looking forward to some interesting picks. I'll be adding these implementations to a GitHub repo dedicated to this, "Project 52". I'll be documenting the progress here. Lassss goooo!
