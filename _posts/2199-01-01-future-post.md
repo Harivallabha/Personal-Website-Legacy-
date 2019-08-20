@@ -1,6 +1,6 @@
 ---
 title:'Kicking off Project 52.0 -- 52 weeks, 52 papers'
-date: 2019-08-21
+date: 2199-01-01
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
