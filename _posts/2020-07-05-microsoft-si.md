@@ -6,7 +6,7 @@ tags:
   - Takeaways
 ---
 
-So I interned with the Office Lens team, at Microsoft - Hyderabad, this summer. I worked on some computer vision stuff (unfortunately, I can't go into the details here), and absolutelyyy loved the experience. Ideally I'd have loved to visit the Microsoft Campus, but given the COVID situation, it was a remote internship. Nevertheless, twas' a roller-coaster ride, and I loved every minute of it.
+So I interned with the Office Lens team, at Microsoft - Hyderabad, this summer. I worked on some computer vision stuff (unfortunately, I can't go into the details here), and absolutely loved the experience. Ideally I'd have loved to visit the Microsoft Campus, but given the COVID situation, it was a remote internship. Nevertheless, twas' a roller-coaster ride, and I loved every minute of it.
 
 The biggest takeaway from the internship was, however, non-technical. My project involved loads of experimentation before we finally got the results we were hoping for, and in the process I discovered the importance of having an _organized workflow_. I had never truly realized the essence of maintaining a diary of experiments, but these two months really drove home the benefits of maintaining a logical track of experiments, and a very clean roadmap. In a creative environment, a logical approach to attacking issues often takes a backseat as we frantically search the web for an off-the-shelf solution to our problems. 
 
