@@ -1,5 +1,5 @@
 ---
-title: 'Least Squares Kinetic Upwind Method based Meshfree Solver for Inviscid Compressible Flows'
+title: 'LSKUM Meshfree Solver for Inviscid Compressible Flows'
 date: 2020-09-14
 permalink: /posts/2020/09/lsqum-meshfree-solver/
 tags:
