@@ -1,11 +1,9 @@
 ---
-title: 'LSKUM Meshfree Solver'
+title: 'Check'
 date: 2020-09-14
-permalink: /posts/2020/09/lsqum-meshfree-solver/
+permalink: /posts/2020/09/lskum-mesh/
 tags:
-  - Meshfree Solver 
-  - C++
-  - Thesis
+  - Take
 ---
 
 A couple of days ago, I finished implementing a q-LSKUM (Least Squares Kinetic Upwind Method) based meshfree solver for aerodynamic shape optimization, in C++, as a part of my M.Sc. Mathematics thesis at BITS Pilani - Hyderabad. The solver employs a least squares based spatial discretization of partial derivatives, for the numerical solution of Navier-Stokes equations for compressible fluid flows. We construct an upwind scheme for the 2-D Boltzmann quation, resulting from the conservation laws, through the Couran-Isaacson-Rees splitting of molecular velocities. Utilizing the defect correction procedure, outlined by Ghosh. A.K. and Deshpande S.M., we achieve second order accuracy. We use local time-stepping and discrete approximations to obtain the steady solution. The state updates are peformed using a four-stage Runge-Kutta scheme (SSP-RK3).
