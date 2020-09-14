@@ -3,8 +3,7 @@ title: 'Least Squares Kinetic Upwind Method based Meshfree Solver for Inviscid C
 date: 2020-09-14
 permalink: /posts/2020/09/microsoft-si/
 tags:
-  - Meshfree Solver
-  
+  - Meshfree Solver  
 ---
 
 A couple of days ago, I finished implementing a q-LSKUM (Least Squares Kinetic Upwind Method) based meshfree solver for aerodynamic shape optimization, in C++, as a part of my M.Sc. Mathematics thesis at BITS Pilani - Hyderabad. 
