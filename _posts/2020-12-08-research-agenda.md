@@ -1,6 +1,6 @@
 ---
 title: 'Vision for the future of modeling'
-date: 2020-07-05
+date: 2020-12-08
 permalink: /posts/2020/12/research-agenda/
 tags:
   - Research Agenda
