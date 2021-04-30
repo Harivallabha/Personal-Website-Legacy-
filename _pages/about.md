@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm Hari, a senior year undergrad pursuing a dual degree in BITS Pilani - Hyderabad Campus. I'm double majoring in Mathematics and Computer Science, and am minoring in Data Science. This blog serves as a compendium of thoughts - on life, love, and coding (a.k.a music on the keyboard). It's primarily inteded for personal use, but is published here, in the vain hope that it is of use to someone out there as well :)
+I'm Hari, a senior year undergrad pursuing a dual degree in BITS Pilani - Hyderabad Campus. I'm double majoring in Mathematics and Computer Science, and am minoring in Data Science. In my previous life, I was a chess player under the tutelage of Grandmaster R.B. Ramesh. This blog serves as a compendium of thoughts - on life, love, and coding. It's primarily inteded for personal use, but is published here, in the vain hope that it is of use to someone out there as well :)
 
 This space will host my thoughts on work, and my evolving musings on what it means to live a good life (thank you, Randy Pausch). Occassionally, I also hope to season the blog with technical topics that I find to be stimulating. 
 
-Welcome, to my pensieve!
+Welcome, to my pensieve! :")
 
 
 
